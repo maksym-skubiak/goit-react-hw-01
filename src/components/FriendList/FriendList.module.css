@@ -1,0 +1,10 @@
+.item {
+  justify-content: space-between;
+  display: flex;
+  margin-top: 20px;
+}
+.item div {
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 10px;
+}
