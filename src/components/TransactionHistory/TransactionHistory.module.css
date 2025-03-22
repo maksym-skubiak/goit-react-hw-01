@@ -1,11 +1,11 @@
-table {
+.table {
   width: 100%;
   border-collapse: collapse;
   margin: 20px 0;
   border: 1px solid black;
 }
 
-th {
+.th {
   background-color: rgb(34, 34, 34);
   padding: 12px 15px;
   text-align: left;
@@ -14,13 +14,13 @@ th {
   border: 1px solid black;
 }
 
-td {
+.td {
   padding: 12px 15px;
   text-align: left;
   color: #252525;
   border: 1px solid black;
 }
 
-tr:nth-child(even) {
+.tr:nth-child(even) {
   background-color: #949494;
 }
