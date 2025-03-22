@@ -17,6 +17,7 @@ function App() {
         stats={userData.stats}
       />
       <FriendList friends={friends} />
+
       <TransactionHistory items={transactions} />
     </>
   );
